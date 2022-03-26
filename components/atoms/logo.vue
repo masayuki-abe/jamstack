@@ -1,5 +1,5 @@
 <template>
   <span>
-    logo
+    Sample
   </span>
 </template>

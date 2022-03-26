@@ -1,7 +1,5 @@
 <template>
-  <div>
-    index
-  </div>
+  <TemplatesFrontPage />
 </template>
 
 <script>
