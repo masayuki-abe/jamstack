@@ -68,6 +68,11 @@ export default {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
+  @media screen and (min-width: 768px) {
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+  }
 }
 .l-header{
   position: relative;
@@ -83,6 +88,9 @@ export default {
     width: 40px;
     font-size: 0;
     line-height: 0;
+    @media screen and (min-width: 768px) {
+      display: none;
+    }
   }
 }
 </style>
