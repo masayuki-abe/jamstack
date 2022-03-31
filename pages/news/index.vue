@@ -1,9 +1,9 @@
 <template>
-  <TemplatesFrontPage />
+  <TemplatesNewsPage />
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'NewsPage'
 }
 </script>

@@ -1,9 +1,9 @@
 <template>
-  <TemplatesFrontPage />
+  <TemplatesAboutPage />
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'AboutPage'
 }
 </script>
